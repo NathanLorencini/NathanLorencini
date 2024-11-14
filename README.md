@@ -1,4 +1,4 @@
-<h2>Hi 👋, i'm Nathan, i have 21 years and am Developer of C#(CSharp). My hobbies are study programming, Games of FPS and travel.</h2>
+<h2>Hi 👋, i'm Nathan, i'm 21 years old and am Jr Developer. My hobbies are study programming, Games of FPS and travel.</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&center=false&vCenter=true&lines=+.+.+.+Welcome+to+my+cave+🦇)](https://git.io/typing-svg)
 
